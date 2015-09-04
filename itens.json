@@ -165,5 +165,18 @@
       "name": "Fabio Vedovelli",
       "url": "http://www.vedovelli.com.br/"
     }
+  },
+  {
+    "name": "Laravel 5 — Elixir (Browserify) e Ecmascript 6",
+    "url": "https://medium.com/@angelorubin/laravel-5-elixir-browserify-e-ecmascript-6-641f601d79d7",
+    "type": "tutorial",
+    "tags": [
+      "Laravel 5",
+      "Ecmascript 6",
+      "Elixir (Browserify)"
+    ],
+    "author": {
+      "name": "Angelo Rogério Rubin"
+    }
   }
 ]
