@@ -80,5 +80,90 @@
       "name": "Vagner do Carmo",
       "url": "http://vluzrmos.com.br/"
     }
+  },
+  {
+    "name": "Autenticação no Laravel 5.1 (parte 1/3)",
+    "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-666b863b7bcc",
+    "type": "tutorial",
+    "tags": [
+      "laravel 5.1",
+      "authentication",
+      "migrations",
+      "seeders"
+    ],
+    "author": {
+      "name": "André Ferraro",
+      "url": "https://github.com/andreferraro"
+    }
+  },
+  {
+    "name": "Autenticação no Laravel 5.1 (parte 2/3)",
+    "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-parte-2-2-27c9c1a4bcc5",
+    "type": "tutorial",
+    "tags": [
+      "laravel 5.1",
+      "authentication",
+      "migrations",
+      "seeders"
+    ],
+    "author": {
+      "name": "André Ferraro",
+      "url": "https://github.com/andreferraro"
+    }
+  },
+  {
+    "name": "Autenticação no Laravel 5.1 (parte 3/3)",
+    "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-parte-3-3-3447480438a4",
+    "type": "tutorial",
+    "tags": [
+      "laravel 5.1",
+      "authentication",
+      "migrations",
+      "seeders"
+    ],
+    "author": {
+      "name": "André Ferraro",
+      "url": "https://github.com/andreferraro"
+    }
+  },
+  {
+    "name": "Laravel > Rotas: segmento dinâmico pode vir a lhe atrapalhar",
+    "url": "http://www.vedovelli.com.br/web-development/laravel-rotas-segmento-dinamico-pode-vir-a-lhe-atrapalhar",
+    "type": "dica",
+    "tags": [
+      "rotas"
+    ],
+    "author": {
+      "name": "Fabio Vedovelli",
+      "url": "http://www.vedovelli.com.br/"
+    }
+  },
+  {
+    "name": "Laravel: ao atualizar seu projeto para 5.1, saiba que Elixir não será atualizado automaticamente",
+    "url": "http://www.vedovelli.com.br/desevolvimento-web/laravel-ao-atualizar-seu-projeto-para-5-1-saiba-que-elixir-nao-sera-atualizado-automaticamente",
+    "type": "tutorial",
+    "tags": [
+      "gulp",
+      "elixir",
+      "node.js",
+      "npm"
+    ],
+    "author": {
+      "name": "Fabio Vedovelli",
+      "url": "http://www.vedovelli.com.br/"
+    }
+  },
+  {
+    "name": "PHP e Nginx: ajustes no upload de arquivos: tamanho máximo",
+    "url": "http://www.vedovelli.com.br/desevolvimento-web/php-e-nginx-ajustes-no-upload-de-arquivos-tamanho-maximo",
+    "type": "dica",
+    "tags": [
+      "nginx",
+      "uploads"
+    ],
+    "author": {
+      "name": "Fabio Vedovelli",
+      "url": "http://www.vedovelli.com.br/"
+    }
   }
 ]
