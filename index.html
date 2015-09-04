@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="awesome">
+<head>
+	<meta charset="UTF-8">
+	<title>Laravel.BR</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha/css/bootstrap.min.css">
+</head>
+<body>
+	<div class="container">
+	  <div class="row">
+	  	<div class="col-md-8 col-md-offset-2">
+	  		<div class="jumbotron jumbotron-fluid">
+			  <div class="container" ng-controller="filterFormController">
+			    <h1 class="display-1 text-center">Laravel BR Awesome</h1>
+
+
+			    <form>
+				  <fieldset class="form-group">
+				    <input type="s" class="form-control" id="s-string" placeholder="Filtre">
+				  </fieldset>
+				</form>
+
+				<ul class="list-group">
+				  <li ng-repeat="item in itens" 
+				  	  class="list-group-item">{{ item }}</li>
+				</ul>
+			  </div>
+			</div>
+	  	</div>
+	  </div>
+	</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.5/angular.min.js"></script>
+	<script src="app.js"></script>
+</body>
+</html>
