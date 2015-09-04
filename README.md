@@ -8,7 +8,7 @@ http://www.laravel.com.br/
 http://www.vedovelli.com.br/
 
 ## Vluzrmos (artigos)
-http://blog.vluzrmos.com.br/laravel-5-artigos-e-video-tutoriais-em-portugues/
+http://blog.vluzrmos.com.br/laravel-5-artigos-e-video-tutoriais-em-portugues/  
 http://blog.vluzrmos.com.br/category/laravel/
 
 ## Hernandev (artigos)
