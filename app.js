@@ -1,6 +1,15 @@
 (function(){
 	angular.module('awesome', [])
-	.controller('filterFormController', ['$scope', function($scope){
-		$scope.itens = [1,2,3,4,5,6];
+	.controller('filterFormController', ['$scope', '$http', function($scope, $http){
+		var init = function() {
+			$http.get('itens.json')
+				.then(function(_response){
+					$scope.itens = _response.data;
+				});
+		};
+
+		$scope.itens = [];
+
+		init();
 	}]);
 })();
