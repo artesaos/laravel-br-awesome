@@ -16,13 +16,28 @@
 
 			    <form>
 				  <fieldset class="form-group">
-				    <input type="s" class="form-control" id="s-string" placeholder="Filtre">
+				    <input 
+				    	ng-model="query"
+				    	type="text" 
+				    	class="form-control" 
+				    	placeholder="...">
 				  </fieldset>
 				</form>
 
 				<ul class="list-group">
-				  <li ng-repeat="item in itens" 
-				  	  class="list-group-item">{{ item }}</li>
+				  <li ng-repeat="item in itens  | filter:query" 
+				  	  class="list-group-item">
+				  	  <span class="label label-default label-pill pull-right">{{ item.type }}</span>
+				  	  <a target="_new" ng-href="{{ item.url }}">{{ item.name }}</a>
+				  	  
+				  	  <div class="tag-list">
+				  	  	<i 
+							class="label label-pill label-info"
+				  	  		ng-repeat="tag in item.tags">{{ tag }}
+				  	  		</i>
+				  	  </div>
+
+				  	  </li>
 				</ul>
 			  </div>
 			</div>

@@ -1,1 +1,30 @@
-[9,8,7,6,5,4,3,2,1]
+[
+  {
+    "name": "Por que facades são um problema seu e não do Laravel?",
+    "url": "https://medium.com/@luizvinicius73/por-que-facades-é-um-problema-seu-e-não-do-laravel-8672bb80c74c",
+    "type": "artigo",
+    "tags": [
+      "facades",
+      "IoC"
+    ]
+  },
+  {
+    "name": "Como organizar: Painel e Site no Laravel 5",
+    "url": "https://medium.com/@luizvinicius73/como-organizar-painel-e-front-no-laravel-5-3409d037c5ee",
+    "type": "artigo",
+    "tags": [
+      "controller",
+      "arquitetura",
+      "organização"
+    ]
+  },
+  {
+    "name": "Trabalhando com seeds no Laravel 5",
+    "url": "https://medium.com/@luizvinicius73/trabalhando-com-seeds-no-laravel-5-142829ddc32e",
+    "type": "artigo",
+    "tags": [
+      "seeds",
+      "artisan"
+    ]
+  }
+]
