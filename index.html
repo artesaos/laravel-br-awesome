@@ -27,13 +27,18 @@
 				<ul class="list-group">
 				  <li ng-repeat="item in itens  | filter:query" 
 				  	  class="list-group-item">
-				  	  <span class="label label-default label-pill pull-right">{{ item.type }}</span>
+				  	  <span 
+				  	  	ng-click="setFilter(item.type)"
+				  	  	class="label label-default label-pill pull-right">{{ item.type }}
+				  	  </span>
 				  	  <a target="_new" ng-href="{{ item.url }}">{{ item.name }}</a>
 				  	  
 				  	  <div class="tag-list">
 				  	  	<i 
 							class="label label-pill label-info"
-				  	  		ng-repeat="tag in item.tags">{{ tag }}
+				  	  		ng-repeat="tag in item.tags"
+				  	  		ng-click="setFilter(tag)">
+				  	  		{{ tag }}
 				  	  		</i>
 				  	  </div>
 

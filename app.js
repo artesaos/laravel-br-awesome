@@ -10,6 +10,10 @@
 
 		$scope.itens = [];
 
+		$scope.setFilter = function(_value){
+			$scope.query = _value;
+		}
+
 		init();
 	}]);
 })();
