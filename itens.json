@@ -41,7 +41,7 @@
   },
   {
     "name": "Deploy com Rocketeer",
-    "url": "http://blog.vluzrmos.com.br/laravel-deploy-com-rocketeer/",
+    "url": "http://blog.vagnerdocarmo.com.br/laravel-deploy-com-rocketeer/",
     "type": "tutorial",
     "tags": [
       "rocketeer",
@@ -49,12 +49,12 @@
     ],
     "author": {
       "name": "Vagner do Carmo",
-      "url": "http://vluzrmos.com.br/"
+      "url": "http://vagnerdocarmo.com.br/"
     }
   },
   {
     "name": "Tarefas Agendadas (cronjobs)",
-    "url": "http://blog.vluzrmos.com.br/laravel-5-tarefas-agendadas-cronjobs/",
+    "url": "http://blog.vagnerdocarmo.com.br/laravel-5-tarefas-agendadas-cronjobs/",
     "type": "tutorial",
     "tags": [
       "cron",
@@ -64,12 +64,12 @@
     ],
     "author": {
       "name": "Vagner do Carmo",
-      "url": "http://vluzrmos.com.br/"
+      "url": "http://vagnerdocarmo.com.br/"
     }
   },
   {
     "name": "Laravel e Aplicações de Tempo Real (WebSockets)",
-    "url": "http://blog.vluzrmos.com.br/dica-laravel-e-aplicacoes-de-tempo-real-websockets/",
+    "url": "http://blog.vagnerdocarmo.com.br/dica-laravel-e-aplicacoes-de-tempo-real-websockets/",
     "type": "dica",
     "tags": [
       "websocket",
@@ -78,7 +78,7 @@
     ],
     "author": {
       "name": "Vagner do Carmo",
-      "url": "http://vluzrmos.com.br/"
+      "url": "http://vagnerdocarmo.com.br/"
     }
   },
   {
