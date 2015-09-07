@@ -178,5 +178,18 @@
     "author": {
       "name": "Angelo Rogério Rubin"
     }
+  },
+  {
+    "name": "Laravel 5 — Elixir (Browserify) e Ecmascript 6",
+    "url": "http://www.vedovelli.com.br/web-development/o-que-e-o-artisan/",
+    "type": "artigo",
+    "tags": [
+      "artisan",
+      "console"
+    ],
+    "author": {
+      "name": "Fabio Vedovelli",
+      "url": "http://www.vedovelli.com.br/"
+    }
   }
 ]
