@@ -20,26 +20,28 @@
 				    	ng-model="query"
 				    	type="text" 
 				    	class="form-control" 
-				    	placeholder="...">
+				    	placeholder="Pesquise por títulos, tags ou categorias...">
 				  </fieldset>
 				</form>
 
 				<ul class="list-group">
 				  <li ng-repeat="item in itens  | filter:query" 
 				  	  class="list-group-item">
-				  	  <span 
+				  	  <a 
 				  	  	ng-click="setFilter(item.type)"
+				  	  	title="Clique para filtrar"
 				  	  	class="label label-default label-pill pull-right">{{ item.type }}
-				  	  </span>
+				  	  </a>
 				  	  <a target="_new" ng-href="{{ item.url }}">{{ item.name }}</a>
 				  	  
 				  	  <div class="tag-list">
-				  	  	<i 
+				  	  	<a 
 							class="label label-pill label-info"
 				  	  		ng-repeat="tag in item.tags"
+				  	  		title="Clique para filtrar"
 				  	  		ng-click="setFilter(tag)">
 				  	  		{{ tag }}
-				  	  		</i>
+				  	  		</a>
 				  	  </div>
 
 				  	  </li>
