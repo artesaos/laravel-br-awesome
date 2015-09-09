@@ -73,7 +73,7 @@
     "type": "dica",
     "tags": [
       "websocket",
-      "tip",
+      "tips",
       "realtime"
     ],
     "author": {
@@ -203,6 +203,19 @@
     "author": {
       "name": "Zizaco",
       "url": "http://zizaco.net/"
+    }
+  },
+  {
+    "name": "Tradução Automática do Carbon",
+    "url": "http://blog.hernandev.com/pt/traducao-automatica-do-carbon",
+    "type": "tutorial",
+    "tags": [
+      "tips",
+      "carbon"
+    ],
+    "author": {
+      "name": "hernandev",
+      "url": "http://hernandev.com/"
     }
   }
 ]
