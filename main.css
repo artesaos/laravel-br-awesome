@@ -19,6 +19,13 @@ body, h1, h2, h3, h4 {
 
 .widget .title {
 	font-size: 1.7em;
+	display: block;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.widget .title:hover {
+	text-decoration: none;
 }
 
 #form-filter{
