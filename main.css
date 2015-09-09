@@ -31,3 +31,9 @@ body, h1, h2, h3, h4 {
 #form-filter{
 	margin-bottom: 30px;
 }
+
+#form-filter .clear-filter{
+	pointer-events: inherit;
+	cursor: pointer;
+	margin-right: 15px;
+}
