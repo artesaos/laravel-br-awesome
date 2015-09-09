@@ -1,5 +1,5 @@
 (function(){
-	angular.module('awesome', [])
+	angular.module('awesome', ['iso.directives'])
 	.directive('widget', function() {
 	  return {
 	      restrict: 'C',
@@ -10,7 +10,7 @@
 	      }
 	  };
 	})
-	.controller('filterFormController', ['$scope', '$http', function($scope, $http){
+	.controller('filterFormController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout){
 		var init = function() {
 			$http.get('itens.json')
 				.then(function(_response){
@@ -23,6 +23,12 @@
 		$scope.setFilter = function(_value){
 			$scope.query = _value;
 		}
+
+		 $scope.$watch('query', function() {
+		 	$timeout(function(){
+		 		$scope.$emit('iso-method', {name:'arrange', params:null})
+		 	}, 600);
+		});
 
 		init();
 	}]);

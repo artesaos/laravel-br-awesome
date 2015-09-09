@@ -45,8 +45,10 @@
     					placeholder="Pesquise por títulos, tags ou categorias...">
     		</form>
     	</div>
-        <div class="row">
-            <div class="col-md-4" ng-repeat="item in itens | filter:query">
+        <div class="row" isotope-container="isotope-container">
+            <div class="col-md-4" 
+            		ng-repeat="item in itens | filter:query" 
+            		isotope-item="isotope-item">
                 <div class="widget">
                     <a class="label label-default"
                     	title="Clique para filtrar"
@@ -73,9 +75,11 @@
 
 
     <script src="vendor/js/jquery.min.js"></script>
+    <script src="vendor/js/isotope.pkgd.min.js"></script>
     <script src="vendor/js/geopattern.min.js"></script>
     <script src="vendor/js/bootstrap.min.js"></script>
     <script src="vendor/js/angular.min.js"></script>
+    <script src="vendor/js/angular-isotope.min.js"></script>
     <script src="app.js"></script>
 </body>
 
