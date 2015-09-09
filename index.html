@@ -39,10 +39,16 @@
     <div class="container" ng-controller="filterFormController">
     	<div class="row">
     		<form class="col-md-12" id="form-filter">
-    			<input type="search"
-    					ng-model="query" 
-    					class="form-control input-lg" 
-    					placeholder="Pesquise por títulos, tags ou categorias...">
+
+                <div class="form-group has-feedback">
+                        <input type="search"
+                               ng-model="query"
+                               class="form-control input-lg"
+                               placeholder="Pesquise por títulos, tags ou categorias...">
+
+                        <span ng-show="query" ng-click="setFilter('')" class="clear-filter form-control-feedback">Limpar</span>
+                </div>
+
     		</form>
     	</div>
         <div class="row" ng-show="filteredItens.length" isotope-container="isotope-container">
