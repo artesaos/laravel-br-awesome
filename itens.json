@@ -217,5 +217,19 @@
       "name": "hernandev",
       "url": "http://hernandev.com/"
     }
+  },
+  {
+    "name": "Trabalhando com Laravel e websockets",
+    "url": "http://www.laravel.com.br/trabalhando-com-laravel-e-websockets",
+    "type": "tutorial",
+    "tags": [
+      "fanout.io",
+      "websocket",
+      "realtime"
+    ],
+    "author": {
+      "name": "Daniel Lemes",
+      "url": "http://www.laravel.com.br/author/daniel"
+    }
   }
 ]
