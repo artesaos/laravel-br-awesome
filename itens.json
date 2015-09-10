@@ -231,5 +231,18 @@
       "name": "Daniel Lemes",
       "url": "http://www.laravel.com.br/author/daniel"
     }
+  },
+  {
+    "name": "Laravel: rotas",
+    "url": "http://www.vedovelli.com.br/web-development/laravel-rotas/",
+    "type": "screencast",
+    "tags": [
+      "route",
+      "rotas"
+    ],
+    "author": {
+      "name": "Fabio Vedovelli",
+      "url": "http://www.vedovelli.com.br/"
+    }
   }
 ]
