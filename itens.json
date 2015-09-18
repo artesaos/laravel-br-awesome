@@ -244,5 +244,20 @@
       "name": "Fabio Vedovelli",
       "url": "http://www.vedovelli.com.br/"
     }
+  },
+  {
+    "name": "Carrinho de Compras com Laravel 5",
+    "url": "https://packagist.org/packages/juliobitencourt/laravel-cart",
+    "type": "pacote",
+    "tags": [
+      "e-commerce",
+      "loja",
+      "cart",
+      "carrinho"
+    ],
+    "author": {
+      "name": "Julio Bitencourt",
+      "url": "https://github.com/juliobitencourt"
+    }
   }
 ]
