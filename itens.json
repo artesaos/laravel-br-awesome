@@ -324,5 +324,19 @@
       "name": "Jansen Felipe",
       "url": "https://github.com/jansenfelipe"
     }
+  },
+  {
+    "name": "Consulte Cidades diretamente no site do IBGE",
+    "url": "https://github.com/jansenfelipe/cidades-gratis",
+    "type": "pacote",
+    "tags": [
+      "consulta",
+      "cidades",
+      "ibge"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "https://github.com/jansenfelipe"
+    }
   }
 ]
