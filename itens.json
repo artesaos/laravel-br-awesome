@@ -270,24 +270,11 @@
     ],
     "author": {
       "name": "Jansen Felipe",
-      "url": "https://jansenfelipe.com.br"
+      "url": "http://jansenfelipe.com.br"
     }
   },
   {
-    "name": "Como criar uma lista de registros com ordenação",
-    "url": "http://jansenfelipe.com.br/2015/05/27/laravel-como-criar-uma-lista-de-registros-ordenacao/",
-    "type": "tutorial",
-    "tags": [
-      "ordenação",
-      "controller"
-    ],
-    "author": {
-      "name": "Jansen Felipe",
-      "url": "https://jansenfelipe.com.br"
-    }
-  },
-  {
-    "name": "Utilizando a library CnpjGratis para realizar consulta no site da Receita",
+    "name": "Como consultar CNPJ no site da Receita",
     "url": "http://jansenfelipe.com.br/2015/05/15/cnpjgratis-library-php-buscar-dados-cnpj-receita/",
     "type": "tutorial",
     "tags": [
@@ -296,7 +283,46 @@
     ],
     "author": {
       "name": "Jansen Felipe",
-      "url": "https://jansenfelipe.com.br"
+      "url": "http://jansenfelipe.com.br"
+    }
+  },
+  {
+    "name": "Como consultar CEP no site dos Correios",
+    "url": "http://phpgratis.org/blog/2015/09/tutorial-como-consultar-cep-no-site-dos-correios/",
+    "type": "tutorial",
+    "tags": [
+      "consulta",
+      "cep",
+      "correios"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "http://phpgratis.org"
+    }
+  },
+  {
+    "name": "Como consultar CFP no site da Receita",
+    "url": "http://jansenfelipe.com.br/2015/07/08/php-package-cpfgratis-para-realizar-consulta-no-site-da-receita/",
+    "type": "tutorial",
+    "tags": [
+      "consulta",
+      "cpf"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "http://jansenfelipe.com.br"
+    }
+  },
+  {
+    "name": "Transforme NFe(xml) em objetos PHP e vice-versa",
+    "url": "https://github.com/jansenfelipe/nfephp-serialize",
+    "type": "pacote",
+    "tags": [
+      "nfe"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "https://github.com/jansenfelipe"
     }
   }
 ]
