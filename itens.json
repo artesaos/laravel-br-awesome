@@ -272,5 +272,31 @@
       "name": "Jansen Felipe",
       "url": "https://jansenfelipe.com.br"
     }
+  },
+  {
+    "name": "Como criar uma lista de registros com ordenação",
+    "url": "http://jansenfelipe.com.br/2015/05/27/laravel-como-criar-uma-lista-de-registros-ordenacao/",
+    "type": "tutorial",
+    "tags": [
+      "ordenação",
+      "controller"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "https://jansenfelipe.com.br"
+    }
+  },
+  {
+    "name": "Utilizando a library CnpjGratis para realizar consulta no site da Receita",
+    "url": "http://jansenfelipe.com.br/2015/05/15/cnpjgratis-library-php-buscar-dados-cnpj-receita/",
+    "type": "tutorial",
+    "tags": [
+      "consulta",
+      "cnpj"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "https://jansenfelipe.com.br"
+    }
   }
 ]
