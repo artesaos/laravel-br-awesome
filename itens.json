@@ -351,5 +351,18 @@
       "name": "Luciano Alexandre De Farias Silva",
       "url": "http://www.devmedia.com.br/space/luciano-alexandre-de-farias-silva"
     }
+  },
+  {
+    "name": "Laravel + AngularJS",
+    "url": "https://leanpub.com/laravelangular_pt",
+    "type": "livros",
+    "tags": [
+      "books",
+      "angular"
+    ],
+    "author": {
+      "name": "Daniel Schmitz",
+      "url": "https://github.com/danielschmitz"
+    }
   }
 ]
