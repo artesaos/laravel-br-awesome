@@ -338,5 +338,18 @@
       "name": "Jansen Felipe",
       "url": "https://github.com/jansenfelipe"
     }
+  },
+  {
+    "name": "Laravel: Trabalhando com Rotas",
+    "url": "http://www.devmedia.com.br/framework-php-laravel-trabalhando-com-rotas/33363",
+    "type": "tutorial",
+    "tags": [
+      "rotas",
+      "routes"
+    ],
+    "author": {
+      "name": "Luciano Alexandre De Farias Silva",
+      "url": "http://www.devmedia.com.br/space/luciano-alexandre-de-farias-silva"
+    }
   }
 ]
