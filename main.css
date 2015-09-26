@@ -37,3 +37,11 @@ body, h1, h2, h3, h4 {
 	cursor: pointer;
 	margin-right: 15px;
 }
+
+.forkme-ribbon{
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 0;
+	width: 110px;
+}
