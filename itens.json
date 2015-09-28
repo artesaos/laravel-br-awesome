@@ -378,5 +378,19 @@
       "name": "Owen IT Services",
       "url": "https://github.com/owen-it"
     }
+  },
+  {
+    "name": "Permite ordenar por models relacionados: orderBy('relacao.campo')",
+    "url": "https://github.com/laraerp/ordination",
+    "type": "pacote",
+    "tags": [
+      "eloquent",
+      "package",
+      "ordenar"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "http://laraerp.org"
+    }
   }
 ]
