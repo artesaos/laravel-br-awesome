@@ -301,7 +301,7 @@
     }
   },
   {
-    "name": "Como consultar CFP no site da Receita",
+    "name": "Como consultar CPF no site da Receita",
     "url": "http://jansenfelipe.com.br/2015/07/08/php-package-cpfgratis-para-realizar-consulta-no-site-da-receita/",
     "type": "tutorial",
     "tags": [
@@ -337,6 +337,46 @@
     "author": {
       "name": "Jansen Felipe",
       "url": "https://github.com/jansenfelipe"
+    }
+  },
+  {
+    "name": "Laravel: Trabalhando com Rotas",
+    "url": "http://www.devmedia.com.br/framework-php-laravel-trabalhando-com-rotas/33363",
+    "type": "tutorial",
+    "tags": [
+      "rotas",
+      "routes"
+    ],
+    "author": {
+      "name": "Luciano Alexandre De Farias Silva",
+      "url": "http://www.devmedia.com.br/space/luciano-alexandre-de-farias-silva"
+    }
+  },
+  {
+    "name": "Laravel + AngularJS",
+    "url": "https://leanpub.com/laravelangular_pt",
+    "type": "livros",
+    "tags": [
+      "books",
+      "angular"
+    ],
+    "author": {
+      "name": "Daniel Schmitz",
+      "url": "https://github.com/danielschmitz"
+    }
+  },
+  {
+    "name": "Auditing for Laravel 5",
+    "url": "https://github.com/owen-it/laravel-auditing",
+    "type": "pacote",
+    "tags": [
+      "eloquent",
+      "package",
+      "auditing"
+    ],
+    "author": {
+      "name": "Owen IT Services",
+      "url": "https://github.com/owen-it"
     }
   }
 ]
