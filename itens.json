@@ -380,7 +380,7 @@
     }
   },
   {
-    "name": "Permite ordenar por models relacionados: orderBy('relacao.campo')",
+    "name": "laraerp/ordination: ordenar por models relacionados",
     "url": "https://github.com/laraerp/ordination",
     "type": "pacote",
     "tags": [
