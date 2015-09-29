@@ -583,5 +583,84 @@
       "name": "Laravel Brasil",
       "url": "laravel.com.br"
     }
+  },
+  {
+    "name": "Laravel Brasil - Hands on Code 01",
+    "url": "https://www.youtube.com/watch?v=YhBCKiN1JGM",
+    "type": "hangout",
+    "tags": [
+      "arquitetura",
+      "repositories",
+      "modules",
+      "package"
+    ],
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://github.com/vinicius73"
+    }
+  },
+  {
+    "name": "Instalação e configuração PHP-FPM, nginx, mysql, phpmyadmin, composer, git, laravel ",
+    "url": "https://www.youtube.com/watch?v=0EM-vRh1n10",
+    "type": "screencast",
+    "tags": [
+      "config"
+    ],
+    "author": {
+      "name": "Leandro Henrique Reis",
+      "url": "https://github.com/emtudo"
+    }
+  },
+  {
+    "name": "Laravel: Módulo de produtos para um controle de Almoxarifado: Storehouse product: Apresentação",
+    "url": "https://www.youtube.com/watch?v=z451-TPk79w",
+    "type": "screencast",
+    "tags": [
+      "modules",
+      "package"
+    ],
+    "author": {
+      "name": "Leandro Henrique Reis",
+      "url": "https://github.com/emtudo"
+    }
+  },
+  {
+    "name": "Laravel: Como organizar sua aplicação em \"módulos\" sem usar nenhum pacote.",
+    "url": "https://www.youtube.com/watch?v=GG7hvbn_iTY",
+    "type": "screencast",
+    "tags": [
+      "modules",
+      "package"
+    ],
+    "author": {
+      "name": "Leandro Henrique Reis",
+      "url": "https://github.com/emtudo"
+    }
+  },
+  {
+    "name": "Como usar o Laravel Security Router",
+    "url": "https://www.youtube.com/watch?v=mIkeYIXBrt8",
+    "type": "screencast",
+    "tags": [
+      "modules",
+      "package"
+    ],
+    "author": {
+      "name": "Leandro Henrique Reis",
+      "url": "https://github.com/emtudo"
+    }
+  },
+  {
+    "name": "Git: Como usar localmente ou em servidor próprio ",
+    "url": "https://www.youtube.com/watch?v=eCXgVl_4yuY",
+    "type": "screencast",
+    "tags": [
+      "modules",
+      "package"
+    ],
+    "author": {
+      "name": "Leandro Henrique Reis",
+      "url": "https://github.com/emtudo"
+    }
   }
 ]
