@@ -662,5 +662,20 @@
       "name": "Leandro Henrique Reis",
       "url": "https://github.com/emtudo"
     }
+  },
+  {
+    "name": "Model factory em pt_BR",
+    "url": "http://www.laravel.com.br/model-factory-em-pt_br-laravel-5-1/",
+    "type": "dica",
+    "tags": [
+      "eloquent",
+      "faker",
+      "factory",
+      "model"
+    ],
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://github.com/vinicius73"
+    }
   }
 ]
