@@ -690,7 +690,7 @@
       "url": "https://github.com/SOSTheBlack"
     }
   },
-   {
+  {
       "name": "MultiAuth For Laravel 5.1",
       "url": "https://github.com/Kbwebs/MultiAuth",
       "type": "pacote",
@@ -702,6 +702,19 @@
       "author": {
          "name": "Kasper Juul Dyhr Basse (kasperbasse)",
          "url": "https://github.com/kasperbasse"
+      }
+   }, 
+   {
+      "name": "Helpers para algumas técnicas comuns de SEO",
+      "url": "https://github.com/artesaos/seotools",
+      "type": "pacote",
+      "tags": [
+          "seo", 
+          "tools"
+      ],
+      "author": {
+          "name": "Artesãos",
+          "url": "https://github.com/artesaos"
       }
    }
 ]
