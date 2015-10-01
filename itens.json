@@ -677,5 +677,17 @@
       "name": "Vinicius Reis",
       "url": "https://github.com/vinicius73"
     }
+  },
+  {
+    "name": "História do seu Laravel",
+    "url": "https://medium.com/@SOSTheBlack/história-do-seu-framework-laravel-4908a60b1ba6",
+    "type": "artigo",
+    "tags": [
+      "History"
+    ],
+    "author": {
+      "name": "Jean C. Garcia",
+      "url": "https://github.com/SOSTheBlack"
+    }
   }
 ]
