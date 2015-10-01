@@ -689,5 +689,19 @@
       "name": "Jean C. Garcia",
       "url": "https://github.com/SOSTheBlack"
     }
-  }
+  },
+   {
+      "name": "MultiAuth For Laravel 5.1",
+      "url": "https://github.com/Kbwebs/MultiAuth",
+      "type": "pacote",
+      "tags": [
+        "Laravel 5.1",
+        "multiauth",
+        "auth"
+      ],
+      "author": {
+         "name": "Kasper Juul Dyhr Basse (kasperbasse)",
+         "url": "https://github.com/kasperbasse"
+      }
+   }
 ]
