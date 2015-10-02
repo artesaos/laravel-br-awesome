@@ -600,6 +600,21 @@
     }
   },
   {
+    "name": "Laravel Brasil - Hands on Code 02",
+    "url": "https://www.youtube.com/watch?v=kHVW57TsjfI",
+    "type": "hangout",
+    "tags": [
+      "arquitetura",
+      "repositories",
+      "modules",
+      "package"
+    ],
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://github.com/vinicius73"
+    }
+  },
+  {
     "name": "Instalação e configuração PHP-FPM, nginx, mysql, phpmyadmin, composer, git, laravel ",
     "url": "https://www.youtube.com/watch?v=0EM-vRh1n10",
     "type": "screencast",
