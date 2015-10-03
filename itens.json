@@ -706,44 +706,44 @@
     }
   },
   {
-      "name": "MultiAuth For Laravel 5.1",
-      "url": "https://github.com/Kbwebs/MultiAuth",
-      "type": "pacote",
-      "tags": [
-        "Laravel 5.1",
-        "multiauth",
-        "auth"
-      ],
-      "author": {
-         "name": "Kasper Juul Dyhr Basse (kasperbasse)",
-         "url": "https://github.com/kasperbasse"
-      }
-   }, 
-   {
-      "name": "Helpers para algumas técnicas comuns de SEO",
-      "url": "https://github.com/artesaos/seotools",
-      "type": "pacote",
-      "tags": [
-          "seo", 
-          "tools"
-      ],
-      "author": {
-          "name": "Artesãos",
-          "url": "https://github.com/artesaos"
-      }
-   },
-   {
-      "name": "Laravel Analytcs",
-      "url": "https://github.com/baconfy/laravel-analytics",
-      "type": "pacote",
-      "tags": [
-          "analytics", 
-          "track",
-          "log",
-      ],
-      "author": {
-          "name": "Renato Dehnhardt",
-          "url": "https://github.com/rdehnhardt"
-      }
-   }
+    "name": "MultiAuth For Laravel 5.1",
+    "url": "https://github.com/Kbwebs/MultiAuth",
+    "type": "pacote",
+    "tags": [
+      "Laravel 5.1",
+      "multiauth",
+      "auth"
+    ],
+    "author": {
+      "name": "Kasper Juul Dyhr Basse (kasperbasse)",
+      "url": "https://github.com/kasperbasse"
+    }
+  },
+  {
+    "name": "Helpers para algumas técnicas comuns de SEO",
+    "url": "https://github.com/artesaos/seotools",
+    "type": "pacote",
+    "tags": [
+      "seo",
+      "tools"
+    ],
+    "author": {
+      "name": "Artesãos",
+      "url": "https://github.com/artesaos"
+    }
+  },
+  {
+    "name": "Laravel Analytcs",
+    "url": "https://github.com/baconfy/laravel-analytics",
+    "type": "pacote",
+    "tags": [
+      "analytics",
+      "track",
+      "log"
+    ],
+    "author": {
+      "name": "Renato Dehnhardt",
+      "url": "https://github.com/rdehnhardt"
+    }
+  }
 ]
