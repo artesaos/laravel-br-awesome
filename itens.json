@@ -731,5 +731,19 @@
           "name": "Artesãos",
           "url": "https://github.com/artesaos"
       }
+   },
+   {
+      "name": "Laravel Analytcs",
+      "url": "https://github.com/baconfy/laravel-analytics",
+      "type": "pacote",
+      "tags": [
+          "analytics", 
+          "track",
+          "log",
+      ],
+      "author": {
+          "name": "Renato Dehnhardt",
+          "url": "https://github.com/rdehnhardt"
+      }
    }
 ]
