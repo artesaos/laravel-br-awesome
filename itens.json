@@ -745,5 +745,17 @@
       "name": "Renato Dehnhardt",
       "url": "https://github.com/rdehnhardt"
     }
+  },
+  {
+    "name": "Laravel para iniciantes: Criando um formulário de contato - Parte 01",
+    "url": "http://jansenfelipe.com.br/2015/10/13/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-01/",
+    "type": "tutorial",
+    "tags": [
+      "iniciante"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "http://jansenfelipe.com.br"
+    }
   }
 ]
