@@ -757,5 +757,17 @@
       "name": "Jansen Felipe",
       "url": "http://jansenfelipe.com.br"
     }
+  },
+  {
+    "name": "Laravel para iniciantes: Criando um formulário de contato - Parte 02",
+    "url": "http://jansenfelipe.com.br/2015/10/14/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-02/",
+    "type": "tutorial",
+    "tags": [
+      "iniciante"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "http://jansenfelipe.com.br"
+    }
   }
 ]
