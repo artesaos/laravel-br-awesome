@@ -747,11 +747,11 @@
     }
   },
   {
-    "name": "Laravel para iniciantes: Criando um formulário de contato - Parte 01",
+    "name": "Laravel para iniciantes: Como iniciar o projeto Laravel, criando views e rotas - Parte 01",
     "url": "http://jansenfelipe.com.br/2015/10/13/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-01/",
     "type": "tutorial",
     "tags": [
-      "iniciante"
+      "iniciante", "rotas", "views"
     ],
     "author": {
       "name": "Jansen Felipe",
@@ -759,11 +759,11 @@
     }
   },
   {
-    "name": "Laravel para iniciantes: Criando um formulário de contato - Parte 02",
+    "name": "Laravel para iniciantes: Como configurar banco MySQL e manipular registros - Parte 02",
     "url": "http://jansenfelipe.com.br/2015/10/14/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-02/",
     "type": "tutorial",
     "tags": [
-      "iniciante"
+      "iniciante", "database", "mysql", "eloquent"
     ],
     "author": {
       "name": "Jansen Felipe",
@@ -771,11 +771,11 @@
     }
   },
   {
-    "name": "Laravel para iniciantes: Criando um formulário de contato - Parte 03",
+    "name": "Laravel para iniciantes: Criando Controller e entendendo a injeção de dependência - Parte 03",
     "url": "http://jansenfelipe.com.br/2015/10/15/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-03/",
     "type": "tutorial",
     "tags": [
-      "iniciante"
+      "iniciante", "IoC", "Controller"
     ],
     "author": {
       "name": "Jansen Felipe",
@@ -783,11 +783,35 @@
     }
   },
   {
-    "name": "Laravel para iniciantes: Criando um formulário de contato - Parte 04",
+    "name": "Laravel para iniciantes: Como validar dados com FormRequest - Parte 04",
     "url": "http://jansenfelipe.com.br/2015/10/16/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-04/",
     "type": "tutorial",
     "tags": [
-      "iniciante"
+      "iniciante", "FormRequest", "validar"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "http://jansenfelipe.com.br"
+    }
+  },
+  {
+    "name": "Laravel para iniciantes: Como relacionar models com o Eloquent ORM, criar migrations e seeds - Parte 05",
+    "url": "http://jansenfelipe.com.br/2015/10/19/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-05/",
+    "type": "tutorial",
+    "tags": [
+      "iniciante", "database", "mysql", "eloquent", "seed", "migrations"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "http://jansenfelipe.com.br"
+    }
+  },
+  {
+    "name": "Laravel para iniciantes: Criando camada de autenticação para visualizar as mensagens - Parte 06",
+    "url": "http://jansenfelipe.com.br/2015/10/20/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-06/",
+    "type": "tutorial",
+    "tags": [
+      "iniciante", "autenticação"
     ],
     "author": {
       "name": "Jansen Felipe",
