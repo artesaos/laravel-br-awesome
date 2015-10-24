@@ -817,5 +817,18 @@
       "name": "Jansen Felipe",
       "url": "http://jansenfelipe.com.br"
     }
+  },
+  {
+  "name": "Testes automatizados",
+  "url": "http://www.laravel.com.br/testes-automatizados-com-laravel-4-models/",
+  "type": "tutorial",
+  "tags": [
+    "Hard",
+    "Padrão de Projeto"
+  ],
+  "author": {
+    "name": " Luiz Fernando (Zizaco)",
+    "url": "http://www.laravel.com.br/"
   }
+}
 ]
